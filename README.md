@@ -5,7 +5,7 @@
 
 - 📚 Estudo sobre **JavaScript, HTML, CSS**
 
-- ⚡ Fun fact **Gosto de Mangás 😄 **
+- ⚡ Fun fact **Gosto de Mangás 😄**
 
 ## 🛠 Tecnologias Utilizadas
 <div style="display: inline_block"><br>
