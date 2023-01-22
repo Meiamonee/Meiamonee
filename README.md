@@ -1,10 +1,13 @@
-### Olá 👋 Eu sou Pedro Lucas de Souza Faria
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Pedro Lucas</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Meiamonee&color=yellow" alt="Profile views" /> </p>
 
+- 🔥 Cursando Engenharia Da Computação.
 
-- 🌱 Curso Engenharia da Computação
-- 😄 Pronouns: ele/dele
+- 📚 Estudo sobre **JavaScript, HTML, CSS**
 
-## Tecnologias Utilizadas
+- ⚡ Fun fact **Gosto de Mangás 😄 **
+
+## 🛠 Tecnologias Utilizadas
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -13,7 +16,7 @@
 
 </div>
 
-##
+## 📊 GitHub Analytics
 <div align="center">
 
 ![Developers Gif](https://user-images.githubusercontent.com/105456789/213901208-7086f752-6eb7-45f9-b65e-c766a9e9d6e3.gif)
