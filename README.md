@@ -14,12 +14,17 @@
 </div>
 
 ##
+<div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meiamonee&show_icons=true&theme=tokyonight)
+![Developers Gif](https://user-images.githubusercontent.com/105456789/213901208-7086f752-6eb7-45f9-b65e-c766a9e9d6e3.gif)
 
+</div>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meiamonee&layout=compact&theme=tokyonight)](https://github.com/Meiamonee/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/Meiamonee">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Meiamonee&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meiamonee&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
 
 ## Minhas Redes Sociais
 
