@@ -17,7 +17,11 @@
 </div>
 
 ## 📊 GitHub Analytics
+<div align="center">
 
+![Developers Gif](https://user-images.githubusercontent.com/105456789/213901208-7086f752-6eb7-45f9-b65e-c766a9e9d6e3.gif)
+
+</div>
 
 <div align="center">
   <a href="https://github.com/Meiamonee">
@@ -25,7 +29,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meiamonee&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
     
-## <img align="center" alt="Rafa-Js" height="30" width="40" src="https://user-images.githubusercontent.com/105456789/213942148-926a07c2-3607-4c24-8c25-e653fbea087d.gif"> Minhas Redes Sociais
 
 <div> 
   <a href="https://www.instagram.com/pedro_vlsf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
