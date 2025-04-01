@@ -17,11 +17,7 @@
 </div>
 
 ## 📊 GitHub Analytics
-<div align="center">
 
-![Developers Gif](https://user-images.githubusercontent.com/105456789/213901208-7086f752-6eb7-45f9-b65e-c766a9e9d6e3.gif)
-
-</div>
 
 <div align="center">
   <a href="https://github.com/Meiamonee">
