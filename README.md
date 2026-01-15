@@ -3,7 +3,7 @@
 
 - 🔥 Cursando Engenharia Da Computação.
 
-- 📚 Estudo sobre **JavaScript, HTML, CSS**
+- 📚 Estudo sobre **JavaScript, Java, NodeJS, SpringBoot**
 
 - ⚡ Fun fact **Gosto de Mangás 😄**
 
